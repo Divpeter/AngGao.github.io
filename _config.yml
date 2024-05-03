@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Ang Gao's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ang Gao"
+description              : &description "Computer science undergraduate preparing for graduate studies"
+url                      : https://divpeter.github.io/AngGao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,9 +25,9 @@ author:
   name             : "Ang Gao"
   pronouns         : # example: "she/her"  
   bio              : "A third year CS Student"
-  location         : "Earth"
+  # location         : "Earth"
   employer         : "Jilin University"
-  uri              : # URL
+  # uri              : # URL
   email            : "gaoang2121@mails.jlu.edu.cn" 
 
   # Academic websites
