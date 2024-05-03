@@ -8,23 +8,23 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ang Gao's Homepage"
+title                    : "Ang Gao/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Ang Gao"
 description              : &description "Computer science undergraduate preparing for graduate studies"
-url                      : https://divpeter.github.io/AngGao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/Divpeter/AngGao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+# repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo_blue.png"
   name             : "Ang Gao"
   pronouns         : # example: "she/her"  
-  bio              : "A third year CS Student"
+  bio              : "A third year undergraduate student from Jilin University majoring in Computer Science"
   # location         : "Earth"
   employer         : "Jilin University"
   # uri              : # URL
